@@ -1,9 +1,16 @@
-# TodoKt
+# todo_app_kotlin_jetpack_compose_room
  
-> [!CAUTION]
-> This is no longer maintained and used, so I made it public
+> [!NOTE]
 > 
-> I remember it is a todo app
+> Todo app, Kotlin + Jetpack Compose + Room database
+
+> [!NOTE]
 > 
-> Kotlin + Jetpack Compose + Room database
-> 
+> Floating action button in right corner, click to open a bottom sheet
+>
+> Select date and time, confirm, todo item added and show in home page
+>
+> Long click todo item, show delete dialog, confirm to delete
+
+![](./image/screenshot_structure.png)
+
